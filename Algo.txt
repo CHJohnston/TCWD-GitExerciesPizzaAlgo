@@ -11,7 +11,9 @@ Steps to Order Pizza                                        //feature update
     Use Flyer                                               //feature update
 3. Select the pizza
 4. Select the toppings
-5. Call in the order
+5. Determine How to Order pizza                             //test2 update
+    Online                                                  //test2 update
+    Phone                                                   //test2 update    
 6. Order pizza for delivery or pickup
 7. If pickup then
     goto pizza place 
