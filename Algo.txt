@@ -1,10 +1,14 @@
-Steps to Order Pizza //feature update
+Steps to Order Pizza                                        //feature update
 
-1. Decide where you want to get your pizza from
+1. Check for pizza place discounts                          //test1 update
+   If favPizzaPlace has discounts                           //test1 update
+   then pizzaPlace = favPizzaPlace                          //test1 update
+   else                                                     //test1 update
+   Select pizzaPlace = pizza place with discounts           //test1 update 
 2. Check the menu
-    Use phone //feature update
-    Use Computer //feature update
-    Use Flyer //feature update
+    Use phone                                               //feature update
+    Use Computer                                            //feature update
+    Use Flyer                                               //feature update
 3. Select the pizza
 4. Select the toppings
 5. Call in the order
