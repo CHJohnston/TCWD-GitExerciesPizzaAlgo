@@ -3,5 +3,13 @@
 3. Select the pizza
 4. Select the toppings
 5. Call in the order
-6. Order pizza
-7. Pay for pizza 
+6. Order pizza for delivery or pickup
+7. If pickup then
+    goto pizza place 
+    pay for pizza
+    go to place to eat pizza
+   else
+    wait for pizza delivery 
+    pay for pizza
+8. Eat pizza
+9. Review pizza
