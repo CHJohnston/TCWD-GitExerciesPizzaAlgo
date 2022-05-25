@@ -1,0 +1,7 @@
+1. Decide where you want to get your pizza from
+2. Check the menu
+3. Select the pizza
+4. Select the toppings
+5. Call in the order
+6. Order pizza
+7. Pay for pizza 
