@@ -1,8 +1,10 @@
+Steps to Order Pizza //feature update
+
 1. Decide where you want to get your pizza from
 2. Check the menu
-    Use phone //feature
-    Use Computer //feature
-    Use Flyer //feature
+    Use phone //feature update
+    Use Computer //feature update
+    Use Flyer //feature update
 3. Select the pizza
 4. Select the toppings
 5. Call in the order
